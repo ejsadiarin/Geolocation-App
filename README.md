@@ -11,12 +11,12 @@
 ## Learnings
 - tested A LOT of APIs for this one, since can't figure out how to settle billing for Google Cloud until I did
 - APIs tested (for own reference):
- - Mapbox (Most reliable alternative)
- - OpenTopoData (open source, can be self-hosted) - has professional datasets for elevation and topography (ASTER, ETOPO1, Mapzen, NZ DEM, NED, SRTM. GEBCO bathmetry, EMOD bathmetry, etc.)
- - Open Weather Map
- - IP stack
- - Apify
-  Open-elevation
-  ElevationAPI
-  Open-meteo
-  Geocode xyz
+  - Mapbox (Most reliable alternative)
+  - OpenTopoData (open source, can be self-hosted) - has professional datasets for elevation and topography (ASTER, ETOPO1, Mapzen, NZ DEM, NED, SRTM. GEBCO bathmetry, EMOD bathmetry, etc.)
+  - Open Weather Map
+  - IP stack
+  - Apify
+  - Open-elevation
+  - ElevationAPI
+  - Open-meteo
+  - Geocode xyz
