@@ -22,9 +22,9 @@ export default function Geolocation() {
       setLatitude(geocodeData.latitude);
       setAddress(geocodeData.place_name || geocodeData.formatted_address);
 
-      const altitudeData = await fetchAltitude(geocodeData.latitude, geocodeData.longitude)
-      console.log(altitudeData);
-      setAltitude(altitudeData.elevation)
+      // const altitudeData = await fetchAltitude(geocodeData.latitude, geocodeData.longitude)
+      // console.log(altitudeData);
+      // setAltitude(altitudeData.elevation)
 
     } catch (error) {
       console.error(error);

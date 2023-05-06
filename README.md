@@ -1,6 +1,6 @@
 # GEOLOCATION APP 
 - A tracking app made with Google Maps API, Geocoding API, Elevation API, and more. Made with React
-- uses Google Maps API, Geocoding API, Elevation API, etc.
+- uses Google Maps API, Geocoding API, Elevation API, etc (protected in a .env file).
 
 ## Reasons for doing
 - master DATA FETCHING, most common yet in my opinion, the most important skill in development:
